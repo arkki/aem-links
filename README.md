@@ -1,7 +1,21 @@
 Adobe Experience Manager Links
 =========
 
-#### Start Here
+AEM Links Index
+---------
+* [AEM Cheat Sheet](cheatsheet.md)
+* [AEM Console Cheat Sheet](console_cheatsheet.md)
+* [Sling Curl Command Cheat Sheet](curl_cheatsheet.md)
+* [Dispatcher Cheat Sheet](dispatcher_cheatsheet.md)
+* [Maven Cheat Sheet](maven_cheatsheet.md)
+* [Problems & Solutions](problems_solutions.md)
+* [Query Builder Cheat Sheet](querybuilder_cheatsheet.md)
+
+
+---------
+
+
+###Start Here
 * [Adobe Experience Manager Onboarding resources](https://helpx.adobe.com/experience-manager/using/onboardAEM.html)
 * [Experiencing Adobe Experience Manger - Day CQ](http://experience-aem.blogspot.com/2013/08/in-blog-experiencing-adobe-experience.html)
 * [My HUGE list of AEM bookmarks](http://aemtips.blogspot.com/2013/05/my-huge-list-of-aem-bookmarks.html)
@@ -34,6 +48,8 @@ Adobe Experience Manager Links
 * [Ruben's Blog](http://ruben42.wordpress.com/) *
 * [CRXDelight](http://crxdelight.com/) *
 * [Adobe Experience Manager Blog](http://aemtips.blogspot.com.au/)
+* [AEM Development Mastery](http://www.aemmastery.com)
+* [CQ5 | AEM6 Solutions and Suggestions](http://aem6solutions.blogspot.com.au/)
 
 ### Component Development
 * [Adobe Marketing Cloud Open Developer Projects](http://adobe-marketing-cloud.github.io/index.html#projects)
@@ -45,10 +61,11 @@ Adobe Experience Manager Links
 * [Tools](http://adobe-consulting-services.github.io/acs-aem-tools/) - Set of tools for AEM to make developer lives easier
 * [Samples](http://adobe-consulting-services.github.io/acs-aem-samples) - Well commented code samples of AEM building blocks to help educate AEM developers.
 
-### Continuous Integration and Delivery 
+### Continuous Integration and Delivery - DevOps
 * [Grabbit](https://github.com/TWCable/grabbit)
 * [Recap](http://adamcin.net/net.adamcin.recap/) - rsync for Adobe Granite
 * [Chef cookbook by Tacit Knowledge](https://github.com/tacitknowledge/aem-cookbook)
+* [Python client for Adobe Experience Manager (AEM) API](https://github.com/wildone/pyaem)
 
 ### Documentation
 * [CRX 2.3](http://docs.adobe.com/docs/en/crx/2-3.html)
@@ -108,6 +125,9 @@ Adobe Experience Manager Links
 ### Oak
 * [Oak Index Definition Generator](http://oakutils.appspot.com/generate/index)
 
+### AEM Apps
+* [A PhoneGap API showcase app managed in AEM](https://github.com/blefebvre/aem-phonegap-kitchen-sink)
+
 (* not sure if this is still being updated)
 
 ----------------------------------------
@@ -134,10 +154,14 @@ This is more of a short cut for people who don't want to navigate through the AE
 * [Access Control Tool](https://github.com/Netcentric/accesscontroltool)
 * [Sling Dynamic Include](https://github.com/Cognifide/Sling-Dynamic-Include)
 * [AEM Tooling Plugin for Intellij IDEA](https://github.com/headwirecom/aem-ide-tooling-4-intellij)
+* [NEBA](https://github.com/unic/neba) - integration of Spring Framework into Apache Sling
 
 ----------------------------------------
 
 ### Helpful Specific Articles
+
+### Coral UI, Touch UI
+* [Coral UI Documentation](https://docs.adobe.com/docs/en/aem/6-2/develop/ref/coral-ui/getting-started/)
 
 #### FAQs, Knowledge Base
 * [All Adobe Knowledge Base Articles](https://helpx.adobe.com/experience-manager/kb/index/full_kb_list.html)
@@ -172,3 +196,5 @@ This is more of a short cut for people who don't want to navigate through the AE
 * [AEM Capability Matrix](https://docs.google.com/spreadsheets/d/11sESEtCSf45j5JWknVLE3DJt9NOJaDHfeBBJFOsxt5o/edit?usp=sharing) - list AEM Capabilities, Features and OOTB Component
 * [Libraries and extensions for AEM applications](http://wcm.io/)
 * [Apache Sling Resource Resolver Rules in a Nutshell](http://ilikeorangutans.github.io/2012/11/20/apache-sling-resource-resolver-rule-priority-explained/)
+* [Adobe CQ/AEM Support Matrix](https://www.adobe.com/support/products/enterprise/eol/eol_matrix.html#cq)
+
